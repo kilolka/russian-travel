@@ -1,36 +1,15 @@
 .cover {
-    z-index: 0;
-    position: relative;
+  margin: 5.75rem 0 0;
 }
 
-@media screen and (max-width: 1280px) {
-    .cover {
-        height: 740px;
-        margin-bottom: 92px;
-        margin-top: 12px;
-    }
+@media screen and (max-width: 1023px) {
+  .cover {
+    margin-top: 5.625rem;
+  }  
 }
 
-@media screen and (max-width: 1024px) {
-    .cover {
-        height: 640px;
-        margin-bottom: 92px;
-        margin-top: 12px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .cover {
-        height: 480px;
-        margin-bottom: 90px;
-        margin-top: 33px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .cover {
-        height: 200px;
-        margin-bottom: 64px;
-        margin-top: 41px;
-    }
+@media screen and (max-width: 767) {
+  .cover {
+    margin-top: 4.125rem;
+  }  
 }

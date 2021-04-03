@@ -1,0 +1,16 @@
+.places__website_url-heading {
+    font-size: 0.75rem;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    color: #aaa;
+    margin: 0 0 0.75rem;
+    text-transform: uppercase;
+    line-height: 1,275rem;
+}
+
+@media screen and (max-width: 1279px) {
+    .places__website_url-heading {
+        line-height: 0.75rem;
+    }
+    
+}
