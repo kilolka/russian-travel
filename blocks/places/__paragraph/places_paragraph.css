@@ -1,7 +1,7 @@
 .places__paragraph {
     font-size: 1.125rem;
-    line-height: 1,83375rem;
-    margin: 0 0 1,625rem;
+    line-height: 1.83375rem;
+    margin: 0 0 1.625rem;
   }
   
   .places__paragraph:last-of-type {
@@ -11,6 +11,6 @@
   @media screen and (max-width: 1023px) {
     .places__paragraph {
       font-size: 1rem;
-      margin: 0 0 1,5625rem;
+      margin: 0 0 1.5625rem;
     }
   }
