@@ -8,7 +8,6 @@
 Ссылка на сайт:
 =======
 Ссылка на сайт
->>>>>>> f07204232a50337e4ce85c3ae0b1fbf80538a0f3
 ---
 https://kilolka.github.io/russian-travel/
 ------
