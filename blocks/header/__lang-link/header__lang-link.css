@@ -3,12 +3,10 @@
     text-decoration: none;
     line-height: 1.75rem;
     font-size: 1.5rem;
-    margin-right: 1.125rem;
+    
 }
 
-.header__lang-link:nth-last-of-type(1) {
-    margin-right: 0;
-}
+
 
 @media screen and (max-width: 767px) {
     .header__lang-link {

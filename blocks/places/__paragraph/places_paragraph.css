@@ -12,5 +12,6 @@
     .places__paragraph {
       font-size: 1rem;
       margin: 0 0 1.5625rem;
+      line-height: 1.63rem;
     }
   }

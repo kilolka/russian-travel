@@ -12,6 +12,14 @@
     }
 }
 
+@media screen and (max-width: 1024px) {
+    .lead__image {
+        width: 90.625vw;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .lead__image {
         margin-top: 2.5rem;

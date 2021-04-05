@@ -19,6 +19,7 @@
 
 @media screen and (max-width: 767px) {
     .places__image {
-        max-width: 320px;
+        margin: 0 -1rem 2rem;
+        max-width: initial;
     }
 }

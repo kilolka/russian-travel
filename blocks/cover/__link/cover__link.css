@@ -1,4 +1,4 @@
-.cover__link{
+.cover__link {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -10,17 +10,19 @@
   background-position: center;
   align-items: center;
   z-index: 1;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
 }
 
-.cover__link::after{
+.cover__link::after {
   content:'';
   background-color: #2a2c2f;
   opacity: 0.3;
   position: absolute;
+  transition: opacity .5s ease-in-out;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
 
 .cover__link:hover::after{
