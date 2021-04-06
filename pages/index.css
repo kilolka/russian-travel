@@ -1,5 +1,6 @@
-@import url(../vendor/font/inter.css);
 @import url(../vendor/normalize.css);
+@import url(../vendor/font/inter.css);
+                    /*page*/
 @import url(../blocks/page/page.css);
 @import url(../blocks/body/body.css);
                     /*header*/
@@ -8,6 +9,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-link/_border/header__lang-link_border.css);
+@import url(../blocks/header/__list-item/header__list-item.css);
                     /*intro*/
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);

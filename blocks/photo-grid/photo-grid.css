@@ -10,7 +10,8 @@
     .photo-grid {
         grid-template-columns: repeat(3, 1fr);
         gap: 0.875rem;
-        padding: 3rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
     }
 }
 
